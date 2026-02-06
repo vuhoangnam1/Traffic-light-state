@@ -53,8 +53,8 @@ The following test scenarios are covered:
 
 ## Project Scope
 - RTL implementation of traffic light
-- Verification using both traditional testbench and UVM
-- Learning and practicing FSM and UVM methodology
+- Verification using both traditional testbench 
+- Learning and practicing design RTL FSM and verification
 
 ---
 
