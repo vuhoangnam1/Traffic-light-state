@@ -1,4 +1,4 @@
-# Traffic-light-controller - SystemVerilog
+# Traffic-light-controller SystemVerilog
 ## Overview
 This project implements a **Traffic Light Controller** using SystemVerilog
 The design models a finite state machine (FSM) controlling traffic lights and verifies correct state transitions and timing behavior through simulation.
